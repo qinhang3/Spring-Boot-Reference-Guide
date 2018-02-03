@@ -1,3 +1,4 @@
+# 8 Spring Boot介绍
 Spring Boot让您可以简单的建立一个单机或生产集群的基于Spring的应用，您只需要“just run”。我们对于Spring框架和第三方库有自己的看法，你可以从最小化的配置开始。大多数的Spring Boot应用只需要一点点Spring配置。你可以使用Spring Boot来创建一个Java引用，它可以通过``java –jar``启动，或者传统的war包部署。我们也开放一个命令行工具来运行Spring scripts。我们的主要目标是：
 - 为所有Spring开发者提供一个更快更广泛的入门体验
 - 开箱即用，但随着需求修改默认配置

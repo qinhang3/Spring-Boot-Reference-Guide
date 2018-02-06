@@ -8,4 +8,6 @@
   * [10. 安装Spring Boot](p2/10.md)
   * [11. 开发第一个Spring Boot应用](p2/11.md)
   * [12. 接下来阅读](p2/12.md)
+* [Part 3.使用Spring Boot](p3.md)
+  * [13](13.md)
 

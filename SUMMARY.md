@@ -14,4 +14,5 @@
   * [15. 配置类](p3/15.md)
   * [16. 自动配置](p3/16.md)
   * [17. Spring Bean和依赖注入](p3/17.md)
+  * [18. 使用@SpringBootApplication注解](p3/18.md)
 
